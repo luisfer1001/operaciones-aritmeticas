@@ -1,4 +1,4 @@
-/*package main
+package main
 
 import "fmt"
 
@@ -9,4 +9,3 @@ func main() {
 		fmt.Println("No se cumple la condicion")
 	}
 }
-*/
